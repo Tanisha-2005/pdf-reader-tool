@@ -1,0 +1,1 @@
+pip install pymupdf pillow transformers torch sumy python-docx python-pptx ebooklib beautifulsoup4 html2text PyPDF2 cryptography mammoth tkhtmlview
